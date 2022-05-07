@@ -101,11 +101,11 @@ button:focus {
 
 .message-container.fail {
   border: 1px solid red;
-  background: url(./images/fail.gif) no-repeat right center;
+  background: url(/images/fail.gif) no-repeat right center;
   background-size: 40px;
 }
 .message-container.pass {
   border: 1px solid green;
-  background: url(./images/success.gif) no-repeat right center;
+  background: url(/images/success.gif) no-repeat right center;
   background-size: contain;
 }
